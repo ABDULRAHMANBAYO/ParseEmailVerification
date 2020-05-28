@@ -9,4 +9,7 @@
     <string name="enter_password">Enter password</string>
     <string name="please_enter_email">Please enter email</string>
     <string name="sign_up">SIGN UP</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Enter password</string>
 </resources>
