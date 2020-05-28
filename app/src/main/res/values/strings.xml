@@ -5,4 +5,8 @@
     <!-- Change the following strings as required -->
     <string name="back4app_app_id">1uA1jkCltFPTxw2ZeNz3TIsYnprzqJWxKMKw1LxW</string>
     <string name="back4app_client_key">fAh751xR0PcCquwLlttm2mcKbugtTwA4pqYNRjVL</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="sign_up">SIGN UP</string>
 </resources>
